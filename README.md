@@ -68,8 +68,9 @@ After that, my passion kinda just took off.
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=cNorspang&show_icons=true&theme=gruvbox&hide_border=true&locale=en)](https://github.com/cNorspang)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=cNorspang&theme=gruvbox)](https://github.com/cNorspang)
+[![](https://github-readme-stats.vercel.app/api?username=cNorspang&show_icons=true&theme=gruvbox&hide_border=true&locale=en&include_all_commits=true)](https://github.com/cNorspang)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=cNorspang&theme=gruvbox&hide_border=true)](https://github.com/cNorspang) <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cNorspang&theme=gruvbox&card_width=497&hide_border=true"/>
 </div>
 <!--
 **cNorspang/cNorspang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
