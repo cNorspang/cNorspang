@@ -66,12 +66,34 @@ After that, my passion kinda just took off.
 <br>
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h2 align="center" style="margin: 5px 10px;">Github stats 📈</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=cNorspang&show_icons=true&theme=gruvbox&hide_border=true&locale=en&include_all_commits=true)](https://github.com/cNorspang)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=cNorspang&theme=gruvbox&hide_border=true)](https://github.com/cNorspang) <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cNorspang&theme=gruvbox&card_width=497&hide_border=true"/>
+[![](https://github-readme-stats.vercel.app/api?username=cNorspang&show_icons=true&theme=gruvbox&hide_border=true&locale=en&include_all_commits=true&count_private=true)](https://github.com/cNorspang)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=cNorspang&theme=gruvbox&hide_border=true&count_private=true)](https://github.com/cNorspang) <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cNorspang&theme=gruvbox&card_width=497&hide_border=true&count_private=true"/>
 </div>
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Projects i'm paticularitly proud of🌟</h2> 
+<p align="center">
+  <a href="https://github.com/cNorspang/Review_bot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cNorspang&repo=Review_bot&theme=gruvbox" />
+  </a>
+</p>
+</div>
+<div align="center">
+<a href="https://github.com/cNorspang/StregsystemEksamen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cNorspang&repo=StregsystemEksamen&theme=gruvbox" />
+</a>
+<a href="https://github.com/cNorspang/SpotBuddy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cNorspang&repo=SpotBuddy&theme=gruvbox" />
+</a>
+</div>
+
+----- 
+### Shoutouts
+![@Benno4president](https://github.com/Benno4president) <br>
+![@denn4617](https://github.com/denn4617)
 <!--
 **cNorspang/cNorspang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
