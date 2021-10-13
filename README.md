@@ -7,9 +7,11 @@
 Hello, My name is Casper Norspang from Aalborg, Denmark. I'm a software engineering studen at Aalborg University, on my third year.
 I started programming around 2014,, when i was 14. My first "big" project was a Reddit Bot for feching and commenting movie reviews from various sources. Altho outdated and probably not working anymore, the source code can be found at
 
-<a href="https://github.com/cNorspang/Review_bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cNorspang&repo=Review_bot&theme=gruvbox" />
-</a>
+<p align="center">
+  <a href="https://github.com/cNorspang/Review_bot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cNorspang&repo=Review_bot&theme=gruvbox" />
+  </a>
+</p>
 
 After that, my passion kinda just took off. 
 
