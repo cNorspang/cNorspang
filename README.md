@@ -5,6 +5,16 @@
 
 
 Hello, My name is Casper Norspang from Aalborg, Denmark. I'm a software engineer, currently working as a Cloud Native Specialist.
+
+- 🔭 I’m currently working on: **DMsTerm (Dungeon Masters screen for your terminal)**
+- 🌱 I’m currently learning: **Go**
+- 👯 I’m looking to collaborate on: **Nothing** 
+- 🤔 I’m looking for help with: **Nothing**
+- 💬 Ask me about **Everything**
+- 📫 How to reach me: **Casper@norspang.dk**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **My favourite author is Terry Prattchet**
+
 I started programming around 2014,, when i was 14. My first "big" project was a Reddit Bot for feching and commenting movie reviews from various sources. Altho outdated and probably not working anymore, the source code can be found at
 
 <p align="center">
