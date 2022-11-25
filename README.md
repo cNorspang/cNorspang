@@ -4,7 +4,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=cNorspang.cNorspang)
 
 
-Hello, My name is Casper Norspang from Aalborg, Denmark. I'm a software engineering studen at Aalborg University, on my third year.
+Hello, My name is Casper Norspang from Aalborg, Denmark. I'm a software engineer, currently working as a Cloud Native Specialist.
 I started programming around 2014,, when i was 14. My first "big" project was a Reddit Bot for feching and commenting movie reviews from various sources. Altho outdated and probably not working anymore, the source code can be found at
 
 <p align="center">
